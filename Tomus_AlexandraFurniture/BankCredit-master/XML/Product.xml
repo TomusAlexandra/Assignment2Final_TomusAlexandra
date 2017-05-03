@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Products>
+ <Product>
+  <ID>2</ID>
+  <Title>Masa</Title>
+  <Stock>0</Stock>
+ </Product>
+ <Product>
+  <ID>4</ID>
+  <Title>Birou</Title>
+  <Stock>0</Stock>
+ </Product>
+</Products>
